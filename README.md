@@ -57,7 +57,7 @@ Go to the [Releases](https://github.com/t8rin/CookHelper/releases) to download t
   
 ## Other parts of project
 
-- [CookHelper API](https://github.com/tannec/cookhelper) repository of [Tannec](https://github.com/tannec)
+- [CookHelper API](https://github.com/t8rin/CookHelperAPI) repository of [Tannec](https://github.com/tannec)
 
 
 ## Find this repository useful? :heart:
